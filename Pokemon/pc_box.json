@@ -1,0 +1,34 @@
+[
+   {
+      "nom": "Bulbizarre",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Carapuce",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Papilusion",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Leveinard",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   }
+]

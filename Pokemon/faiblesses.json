@@ -1,0 +1,16 @@
+{
+    "Feu": ["Eau", "Sol", "Roche"],
+    "Eau": ["Plante", "Electrique"],
+    "Plante": ["Feu", "Insecte", "Vol"],
+    "Electrique": ["Sol"],
+    "Sol": ["Eau", "Plante"],
+    "Roche": ["Eau", "Plante", "Glace"],
+    "Glace": ["Feu", "Combat", "Roche"],
+    "Insecte": ["Feu", "Vol"],
+    "Vol": ["Electrique", "Glace"],
+    "Combat": ["Insecte", "Vol"],
+    "Psy": ["Spectre"],
+    "Spectre": ["Psy"],
+    "Legendaire": [],
+    "Normal": []
+}

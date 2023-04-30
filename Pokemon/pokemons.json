@@ -1,0 +1,1122 @@
+[
+   {
+      "nom": "Bulbizarre",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Herbizarre",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Florizarre",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Mystherbe",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Ortide",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Rafflesia",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Chetiflor",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Boustiflor",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Empiflor",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Noeunoeuf",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Noadkoko",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Saquedeneu",
+      "type": "Plante",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Carapuce",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Carabaffe",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Tortank",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Psykokwak",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Akwakwak",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Ptitard",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Tetarte",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Tartard",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Tentacool",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Tentacruel",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Ramoloss",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Flagadoss",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Otaria",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Lamantine",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Kokiyas",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Crustabri",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Hypotrempe",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Hypocean",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Poissirene",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Poissoroy",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Stari",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Staross",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Magicarpe",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Leviator",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Lokhlass",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Aquali",
+      "type": "Eau",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Artikodin",
+      "type": "Legendaire",
+      "lvl": 0,
+      "pdv": 125,
+      "p_att": 25,
+      "p_def": 10
+   },
+   {
+      "nom": "Electhor",
+      "type": "Legendaire",
+      "lvl": 0,
+      "pdv": 125,
+      "p_att": 25,
+      "p_def": 10
+   },
+   {
+      "nom": "Sulfura",
+      "type": "Legendaire",
+      "lvl": 0,
+      "pdv": 125,
+      "p_att": 25,
+      "p_def": 10
+   },
+   {
+      "nom": "Mewtwo",
+      "type": "Legendaire",
+      "lvl": 0,
+      "pdv": 125,
+      "p_att": 25,
+      "p_def": 10
+   },
+   {
+      "nom": "Mew",
+      "type": "Legendaire",
+      "lvl": 0,
+      "pdv": 125,
+      "p_att": 25,
+      "p_def": 10
+   },
+   {
+      "nom": "Pikachu",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Raichu",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Magneti",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Magneton",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Voltorbe",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Electrode",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Elektek",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Voltali",
+      "type": "Electrique",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Racaillou",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Gravalanch",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Grolem",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Onix",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Rhinocorne",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Rhinoferos",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Machoc",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Machopeur",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Mackogneur",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Kicklee",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Tygnon",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Salameche",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Reptincel",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Dracaufeu",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Goupix",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Feunard",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Caninos",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Arcanin",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Ponyta",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Galopa",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Magmar",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Pyroli",
+      "type": "Feu",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Amonita",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Amonistar",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Kabuto",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Kabutops",
+      "type": "Roche",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 12,
+      "p_def": 10
+   },
+   {
+      "nom": "Roucool",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Roucoups",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Roucarnage",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Piafabec",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Rapasdepic",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Nosferapti",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Nosferalto",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Canarticho",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Doduo",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Dodrio",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Ptera",
+      "type": "Vol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 2
+   },
+   {
+      "nom": "Rattata",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Rattatac",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Abo",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Arbok",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "NidoranM",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "NidoranF",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Nidorina",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Nidoqueen",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Nidorino",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Nidoking",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Melofee",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Melodelfe",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Rondoudou",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Grodoudou",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Miaouss",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Persian",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Ferosinge",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Colossinge",
+      "type": "Combat",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 7
+   },
+   {
+      "nom": "Leveinard",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Kangourex",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Tauros",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Metamorph",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Evoli",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Porygon",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Ronflex",
+      "type": "Normal",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 8
+   },
+   {
+      "nom": "Sabelette",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Sablaireau",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Taupiqueur",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Triopikeur",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Osselait",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Ossatueur",
+      "type": "Sol",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Chenipan",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Chrysacier",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Papilusion",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Aspicot",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Coconfort",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Dardargnan",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Paras",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Parasect",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Mimitoss",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Aeromite",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Insecateur",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Scarabrute",
+      "type": "Insecte",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 10,
+      "p_def": 2
+   },
+   {
+      "nom": "Abra",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Kadabra",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Alakazam",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Soporifik",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Hypnomade",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "MMime",
+      "type": "Psy",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 15,
+      "p_def": 5
+   },
+   {
+      "nom": "Fantominus",
+      "type": "Spectre",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 10
+   },
+   {
+      "nom": "Spectrum",
+      "type": "Spectre",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 10
+   },
+   {
+      "nom": "Ectoplasma",
+      "type": "Spectre",
+      "lvl": 0,
+      "pdv": 100,
+      "p_att": 18,
+      "p_def": 10
+   }
+]
